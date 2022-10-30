@@ -26,4 +26,4 @@ https://archlinux.org
 ![ตัวอย่างฐานข้อมูล](sample_database.png)
 
 # คลิปสาธิตการทำ
-<iframe width="853" height="480" src="https://www.youtube.com/embed/IxO6Z-ySE4A" title="สาธิตการทำเว็บเซิร์ฟเวอร์ บน Arch Linux โดยใช้ XAMPP deploy เว็บโชว์สินค้า" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![คลิป](https://www.youtube.com/watch?v=IxO6Z-ySE4A)
