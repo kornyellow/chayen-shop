@@ -26,4 +26,4 @@ https://archlinux.org
 ![ตัวอย่างฐานข้อมูล](sample_database.png)
 
 # คลิปสาธิตการทำ
-![คลิป](https://www.youtube.com/watch?v=IxO6Z-ySE4A)
+[![คลิปยูทูป](thumbnail.png)](https://www.youtube.com/watch?v=IxO6Z-ySE4A)
